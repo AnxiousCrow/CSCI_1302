@@ -1,5 +1,5 @@
 //*********************************************************************
-//  DotsPanel.java       Author: Lewis/Loftus
+//  DotsPanel.java
 //
 //  Represents the primary panel for the Dots program.
 //*********************************************************************
